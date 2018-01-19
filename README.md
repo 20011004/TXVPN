@@ -7,10 +7,10 @@
     
 - **Android平台:**
     * [安卓客户端](https://github.com/newbreedlimited/TXVPN/raw/master/xsky.txvpn_1.18_web.apk)
-    
+        
+- **MAC平台:** 
+    * [MAC客户端](http://172.104.125.5)
+
 - **IOS平台:** 
     * [苹果客户端专业版](http://172.104.125.5/ios/iosfree.html)
     * [苹果客户端免费版](http://172.104.125.5/ios/iospro.html)
-    
-- **MAC平台:** 
-    * [MAC客户端](http://172.104.125.5)
