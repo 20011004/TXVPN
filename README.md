@@ -2,7 +2,7 @@
 
 ### 下载 
 - **Windows:**            
-    [Windows客户端](https://github.com/newbreedlimited/TXVPN/raw/master/TxWinVPN.zip)
+    * [Windows客户端](https://github.com/newbreedlimited/TXVPN/raw/master/TxWinVPN.zip)
 - **OSX:**                
   + [安装版](https://github.com/yinghuocho/download/blob/master/firefly_darwin_amd64_install.dmg?raw=true) | [单文件版](https://github.com/yinghuocho/download/blob/master/firefly_darwin_amd64?raw=true)
 - **Ubuntu 64位:**  
