@@ -1,6 +1,5 @@
-## 天行VPN 最新版本下载地址
-
-### 下载 
+## 天行VPN 最新版本
+### 下载地址
 - **Windows:**            
     * [Windows客户端](https://github.com/newbreedlimited/TXVPN/raw/master/TxWinVPN.zip)
 - **OSX:**                
