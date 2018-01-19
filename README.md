@@ -8,7 +8,7 @@
 - **Android:**                
     * [安卓客户端](https://github.com/newbreedlimited/TXVPN/raw/master/TxWinVPN.zip)
     
-- **IOS:**  
+- **IOS:**                
     * [IOS专业版](https://github.com/newbreedlimited/TXVPN/raw/master/TxWinVPN.zip)
     * [IOS免费版](https://github.com/yinghuocho/download/blob/master/firefly_linux_amd64_install.deb?raw=true)
 
