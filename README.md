@@ -13,5 +13,5 @@
     * [Windows客户端](https://github.com/newbreedlimited/TXVPN/raw/master/TxWinVPN.zip)
     
 - **MAC平台:** 
-   * [MAC客户端](http://172.104.125.5)
+   * [MAC客户端](https://github.com/newbreedlimited/TXVPN/raw/master/XskyWalkerForMac_1.4.dmg)
 
